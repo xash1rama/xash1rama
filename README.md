@@ -18,8 +18,8 @@ My contacts:
 </p>
 
 >Frameworks and libraries:
-- ![17c07ccab0bd59b909e4f9cc13c540e5](https://github.com/user-attachments/assets/70d7195b-b613-478f-b92e-ee371a14a013)
-Flask
+![imgonline-com-ua-Resize-trNkVxIUtL](https://github.com/user-attachments/assets/7730c64e-1a3b-48d5-84c9-01ad67ed6024)
+- Flask
 - FastAPI
 - OOP
 - Async
