@@ -6,6 +6,7 @@ I'm Vlad, Backend developer (Python, Flask, FastAPI, PostgeSQL, Docker).
 My contacts:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xash1rama)
+
 [![LinkidIn](<img width="404" height="125" alt="Без названия" src="https://github.com/user-attachments/assets/6cc9c751-77f0-472b-893d-3150e573d1bd" />)](https://www.linkedin.com/in/vlad-asmakovets-401665344/)
 
 
