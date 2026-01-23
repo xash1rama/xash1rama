@@ -18,7 +18,8 @@ My contacts:
 </p>
 
 >Frameworks and libraries:
-- Flask
+- ![17c07ccab0bd59b909e4f9cc13c540e5](https://github.com/user-attachments/assets/70d7195b-b613-478f-b92e-ee371a14a013)
+Flask
 - FastAPI
 - OOP
 - Async
