@@ -19,7 +19,7 @@ My contacts:
 
 >Frameworks and libraries:
 
-![imgonline-com-ua-Resize-trNkVxIUtL](https://github.com/user-attachments/assets/7730c64e-1a3b-48d5-84c9-01ad67ed6024) - Flask
+- Flask ![imgonline-com-ua-Resize-trNkVxIUtL](https://github.com/user-attachments/assets/7730c64e-1a3b-48d5-84c9-01ad67ed6024)
 - FastAPI
 - OOP
 - Async
