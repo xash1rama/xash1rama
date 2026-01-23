@@ -7,8 +7,6 @@ My contacts:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xash1rama)
 
-[![LinkidIn](<img width="293" height="172" alt="Без названия (1)" src="https://github.com/user-attachments/assets/0f04f560-5281-4283-a3ad-b50d95ab7784" />)](https://www.linkedin.com/in/vlad-asmakovets-401665344/)
-
 
 # My tech stacks
 
