@@ -2,8 +2,8 @@
 
 Welcome to my page!
 Backend developer with 3+ years of commercial experience in Python, working with Flask, FastAPI, PostgreSQL, and Docker. Focused on building reliable, scalable backend services and APIs.
-My contacts:
 
+My contacts:
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xash1rama)
 
 
