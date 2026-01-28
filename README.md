@@ -1,8 +1,7 @@
 ## Hi there, I'm Vlad Asmakovets!
 
 Welcome to my page!
-I'm Vlad, Backend developer (Python, Flask, FastAPI, PostgeSQL, Docker).
-
+Backend developer with 3+ years of commercial experience in Python, working with Flask, FastAPI, PostgreSQL, and Docker. Focused on building reliable, scalable backend services and APIs.
 My contacts:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xash1rama)
