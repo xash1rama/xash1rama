@@ -1,7 +1,7 @@
 ## Hi there, I'm Vlad Asmakovets!
 
 Welcome to my page!
-Backend developer with **5+ years of commercial experience in Python**, working with Flask, FastAPI, PostgreSQL, and Docker. Focused on building reliable, scalable backend services and APIs.
+Backend developer with **3+ years of commercial experience in Python**, working with Flask, FastAPI, PostgreSQL, and Docker. Focused on building reliable, scalable backend services and APIs.
 
 Get in touch — contact details below:
 
