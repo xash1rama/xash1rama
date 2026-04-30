@@ -34,6 +34,8 @@ Get in touch — contact details below:
 - Aiogram
 - Nginx
 - Prometheus + Grafana
+- OpenAI
+- AI integration
 
 >Database:
 
